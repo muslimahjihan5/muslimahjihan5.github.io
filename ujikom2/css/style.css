@@ -1,0 +1,33 @@
+body{
+    background-color: lightgrey;
+}
+
+.container{
+    background-color: white;
+    padding: 15px;
+}
+
+.section-menu{
+    padding: 15px;
+}
+
+.my-large-btn{
+    margin-bottom: 20px;
+}
+
+.grid-item{
+    border-bottom: 1px solid gray;
+    margin-bottom: 20px;
+}
+
+.grid-item img{
+    margin-bottom: 20px;
+}
+.grid-item h4{
+    font-size: 21px;
+}
+
+.grid-item h5{
+    font-size: 16px;
+    margin-bottom: 10px;
+}
